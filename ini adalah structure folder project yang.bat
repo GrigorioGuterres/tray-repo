@@ -1,0 +1,30 @@
+ini adalah structure folder project yang nanti saya buat :
+ admin\app
+admin\app\config.php
+admin\app\functionaktividade.php
+admin\app\functionfasilidade.php
+admin\app\functioninformasaun.php
+admin\app\functionprofile.php
+admin\build
+admin\dist
+admin\docs
+admin\js
+admin\js\aktividade copy.js
+admin\js\fasilidade.js
+admin\js\informasaun.js
+admin\js\profile.js
+admin\pages
+admin\pages\aktividade
+admin\pages\aktividade\add.php
+admin\pages\aktividade\list.php
+admin\pages\fasilidade
+admin\pages\fasilidade\add.php
+admin\pages\fasilidade\list.php
+admin\pages\informasaun
+admin\pages\informasaun\add.php
+admin\pages\informasaun\list.php
+admin\pages\profile
+admin\pages\profile\add.php
+admin\pages\profile\list.php
+admin\plugins
+admin\index.php
